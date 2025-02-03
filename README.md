@@ -19,7 +19,7 @@
 
 
 📫 Let's Connect!
-💼 LinkedIn | 📧 fabio.pettian@gmail.com | 🌍 Jundiaí, SP, Brazil
+💼 LinkedIn https://www.linkedin.com/in/fabiopettian/ | 📧 fabio.pettian@gmail.com | 🌍 Jundiaí, SP, Brazil
 
 🛠️ Always open to discussions on SAP, AI, ERP integration, and supply chain innovation! 🚀
 
