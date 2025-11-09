@@ -1,4 +1,5 @@
 👋 Hi there! I'm Fabio Henrique Pettian
+
 🚀 AI & Cloud Engineer | Principal Product Manager | DevOps | Multicloud (AWS, Azure, GCP, OCI) | Business Impact through Innovation
 
 🔹 15+ years of experience in SAP solutions, specializing in S/4HANA, PP/PI, QM, Procurement and Process Order Execution
