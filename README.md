@@ -1,30 +1,36 @@
-👋 Hi there! I'm Fabio Henrique Pettian
+# Fabio Pettian — AI & Cloud Engineer | AI Product Builder
 
-🚀 AI & Cloud Engineer | Principal Product Manager | DevOps | Multicloud (AWS, Azure, GCP, OCI) | Business Impact through Innovation
+AI & Cloud Engineer with 15+ years driving enterprise transformation through applied AI, cloud-native architecture, and product leadership.
 
-🔹 15+ years of experience in SAP solutions, specializing in S/4HANA, PP/PI, QM, Procurement and Process Order Execution
-🔹 Deep expertise in SAP Solutions, driving AI-powered forecasting, supply chain optimization, and ERP integration
-🔹 Passionate about Multicloud architectures, process automation, and AI-driven analytics
-🔹 Skilled in Agile methodologies (Scrum, DevOps), IT project management, and digital innovation
+I build **AI agents using LLMs/SLMs**, **RAG**, **LangChain**, and tools like **VS Code, GitHub Copilot, and Cursor**, creating real-world automation and intelligent systems.
 
-💡 What I Do
-🔧 SAP & Mfg Solutions Development – Enhancing S/4HANA with Core or Custom development, production execution, and supply chain processes
-⚡ ERP & Cloud Integration – Connecting SAP S/4HANA with O9, MES, MDG, and other enterprise platforms
-📊 AI & Data Analytics – Optimizing the seamless migration of objects using ETL techniques and business intelligence tools
-💻 Coding & Automation – Node.js, SQL, ABAP Tracing & Debug, SAP Fiori/UI5, and Azure DevOps pipelines
+## 🚀 What I Do
+- Multi-cloud architecture (AWS, Azure, GCP, OCI)  
+- Infrastructure as Code: Terraform & Ansible  
+- Kubernetes, CI/CD, platform engineering  
+- Intelligent agents with LLM orchestration and LangChain  
+- Enterprise automation with AI and cloud-native patterns
 
-📂 Projects & Contributions
-💡 SAP S/4HANA Global Rollouts: Leading multi-country implementations and integrations
-📊 O9 Solutions Demand Planning & Procurement: AI-driven forecasting and supply chain analytics
-🔗 Cloud & Microservices: Designing scalable ERP ecosystems with Azure & REST APIs using Postman
+## 🏢 Experience
+Former Principal Product Manager at **AB InBev**, where I led:
+- Global **SAP S/4HANA Go Lives**,  
+- Rollouts across 50+ factories,  
+- Impacting 10,000+ users and more than **$1B in monthly digital transactions**.
 
+Successfully transitioned from **SAP & Supply Chain** to **AI Engineering**.
 
-📫 Let's Connect!
-💼 LinkedIn https://www.linkedin.com/in/fabiopettian/ | 📧 fabio.pettian@gmail.com | 🌍 Jundiaí, SP, Brazil
+## 🧠 Recent Projects
+- **Remote AI Engineer Scout** — LangChain agent for job intelligence and profile analysis  
+- **HealthHub** — Multi-cloud healthcare platform integrating OpenAI, Azure Speech, and GCP Vision  
+- **Azure IT Agent** — Automated IT ticketing powered by LLMs  
+- Reduced deployment time by **40%** using IaC and CI/CD
 
-🛠️ Always open to discussions on SAP, AI, ERP integration, and supply chain innovation! 🚀
+## 🔍 Open To
+- AI Engineering  
+- Cloud Architecture  
+- AI Product / Technical Leadership  
 
-<!---
-fabao2024/fabao2024 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+## 🌎 Connect
+- **GitHub:** https://github.com/fabao2024  
+- **Medium:** https://medium.com/@fabio.pettian  
+- **Email:** fabio.pettian@gmail.com  
